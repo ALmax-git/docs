@@ -1,14 +1,14 @@
 ---
-title: Working with the npm registry
-intro: 'You can configure npm to publish packages to {% data variables.product.prodname_registry %} and to use packages stored on {% data variables.product.prodname_registry %} as dependencies in an npm project.'
-product: '{% data reusables.gated-features.packages %}'
+Title: Working with the npm registry
+Intro: 'You can configure npm to publish packages to {% data variables.product.prodname_registry %} and to use packages stored on {% data Variables.product.prodname_registry %} as dependencies in an npm project.'
+Product: '{% data reusables.gated-features.packages %}'
 redirect_from:
   - /articles/configuring-npm-for-use-with-github-package-registry
   - /github/managing-packages-with-github-package-registry/configuring-npm-for-use-with-github-package-registry
   - /github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages
   - /packages/using-github-packages-with-your-projects-ecosystem/configuring-npm-for-use-with-github-packages
   - /packages/guides/configuring-npm-for-use-with-github-packages
-versions:
+Versions:
   fpt: '*'
   ghes: '*'
   ghec: '*'
